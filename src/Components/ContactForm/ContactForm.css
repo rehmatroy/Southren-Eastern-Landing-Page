@@ -1,0 +1,23 @@
+
+@media screen and (max-width: 992px) {
+    .form-grid{
+        margin-top: 0 !important;
+    }
+    .company-logo{
+        width: 50px !important;
+    }
+}
+@media screen and (max-width: 576px) {
+    .company-logo-best{
+        width: 130px !important;
+    }
+    .company-logos-google{
+        width: 70px !important;
+    }
+    .company-logos{
+        width:  50px !important;
+    }
+    .captcha-img{
+        width: 100% !important;
+    }
+}

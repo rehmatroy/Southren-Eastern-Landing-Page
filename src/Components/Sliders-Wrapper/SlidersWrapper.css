@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+.slider-heading{
+    padding: 30x 0;
+    text-align: center;
+}
+hr{
+    border: 2px solid #4060AC;
+    width: 20%;
+}
+
+@media screen and (max-width:500px) {
+    .slider-content{
+        width: 80% !important;
+    }
+    .slider-btn{
+        width: 200px !important;
+    }
+    .call-center-heading{
+        font-size: 22px !important;
+    }
+    .divider{
+        width: 100px !important;
+    }
+}

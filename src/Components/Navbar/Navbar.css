@@ -1,0 +1,16 @@
+
+.nav-list-items:hover{
+    color: #4060AC !important;
+}
+@media screen and (max-width: 992px) {
+    .logo{
+        width: 130px !important;
+    }
+    .nav-items{
+        font-size: 14px !important;
+    }
+    .navbar-btn{
+        width: 120px !important;
+
+    }
+}
